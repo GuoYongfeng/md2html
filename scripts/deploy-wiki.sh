@@ -23,4 +23,4 @@ git remote add origin git@github.com:GuoYongfeng/md2html.git
 
 # Force push from the current repo's master branch to the remote
 # (All previous history on the master branch will be lost, since we are overwriting it.)
-git push --force origin master:master
+git push origin master
